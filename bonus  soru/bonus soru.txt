@@ -1,0 +1,13 @@
+kullanıcıdan hangi sayılar arasında komşusu olan şehirleri kısıtlamak istediğini sorsun ve alsın.
+kullanıcıdan kaç şehir ile kısıtlanacağını alsın.
+kaç şehir ile kısıtlanacaksa bir fazlası boyutta şehirler node dizisi oluştursun.
+(3 ile 7 arasını tutmak için bir fazlası lazım).
+
+3 ile 7 arasında komşusu olanları yeni bir şehir nodu oluşturup ona eklesin.
+sonra kullanıcıdan şehir ismi alsın.
+bu nodun şehirlerini sırayla gezsin.her şehrin komşularında kullanıcıdan girilen şehri arasın.
+eğer şehirin komşusunda kullanıcıdan girilen şehiri bulursa dizinin 2.noduna bu şehri eklesin.
+böyle böyle dizinin 2. nodu yani kullanıcıdan girilen ilk şehrin komşu olduğu şehirler bulunsun.
+
+sonra aynısı 2. girilen şehir için 3. diziye ordan da 3. girilen şehir için 4.diziye atılsın.
+sonunda bu ör.3 şehre komşu ve 3 ile 7 arasında komşusu olan şehirlerin nodeu bulunur.
